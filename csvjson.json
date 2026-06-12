@@ -22,5 +22,141 @@
     "C": "Gurdaspur",
     "D": "Ludhiana",
     "Correct": "B"
+  },
+  {
+    "Question": "National Animal of India?",
+    "A": "Lion",
+    "B": "Tiger",
+    "C": "Leopard",
+    "D": "Elephant",
+    "Correct": "B"
+  },
+  {
+    "Question": "National Bird of India?",
+    "A": "Peacock",
+    "B": "Sparrow",
+    "C": "Crow",
+    "D": "Eagle",
+    "Correct": "A"
+  },
+  {
+    "Question": "Largest Planet in Solar System?",
+    "A": "Earth",
+    "B": "Mars",
+    "C": "Jupiter",
+    "D": "Saturn",
+    "Correct": "C"
+  },
+  {
+    "Question": "H2O is chemical formula of?",
+    "A": "Oxygen",
+    "B": "Hydrogen",
+    "C": "Water",
+    "D": "Salt",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is fastest land animal?",
+    "A": "Tiger",
+    "B": "Cheetah",
+    "C": "Leopard",
+    "D": "Lion",
+    "Correct": "B"
+  },
+  {
+    "Question": "Capital of USA?",
+    "A": "New York",
+    "B": "Washington DC",
+    "C": "Los Angeles",
+    "D": "Chicago",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which gas do plants absorb?",
+    "A": "Oxygen",
+    "B": "Nitrogen",
+    "C": "Carbon Dioxide",
+    "D": "Hydrogen",
+    "Correct": "C"
+  },
+  {
+    "Question": "India Independence Year?",
+    "A": "1945",
+    "B": "1947",
+    "C": "1950",
+    "D": "1935",
+    "Correct": "B"
+  },
+  {
+    "Question": "Capital of Maharashtra?",
+    "A": "Pune",
+    "B": "Nagpur",
+    "C": "Mumbai",
+    "D": "Nashik",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is smallest prime number?",
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "3",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is known as Red Planet?",
+    "A": "Earth",
+    "B": "Mars",
+    "C": "Venus",
+    "D": "Mercury",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who is Father of Nation (India)?",
+    "A": "Nehru",
+    "B": "Gandhi",
+    "C": "Patel",
+    "D": "Bose",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is largest ocean?",
+    "A": "Atlantic",
+    "B": "Indian",
+    "C": "Arctic",
+    "D": "Pacific",
+    "Correct": "D"
+  },
+  {
+    "Question": "How many continents are there?",
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is currency of India?",
+    "A": "Dollar",
+    "B": "Rupee",
+    "C": "Euro",
+    "D": "Yen",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is longest river in India?",
+    "A": "Yamuna",
+    "B": "Ganga",
+    "C": "Brahmaputra",
+    "D": "Godavari",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which organ pumps blood?",
+    "A": "Lungs",
+    "B": "Brain",
+    "C": "Heart",
+    "D": "Liver",
+    "Correct": "C"
   }
 ]
